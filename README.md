@@ -1,6 +1,7 @@
+https://travis-ci.org/DevinTyler26/33-sorting-algorithms.svg?branch=lab-33
 ![cf](http://i.imgur.com/7v5ASc8.png) 33: Sorting Algorithms
 ===
-
+ 
 ## Submission Instructions
   * **If you do not include links in your README to online resources you utilized, OR you do not comment your code, you will get a 0.**
   * Work in a fork of this repository
@@ -33,3 +34,19 @@ Add your Travis badge to the top of your README (even if your build is failing),
   
 ### Stretch Goal
 * Take one of the sorting algorithms you wrote and utilize it to sort the data in your React-Redux budget tracker app according to the cost of your expenses. 
+
+
+### Merge Sort
+- Time O(n logn)
+- Space O(n)
+- Help from https://www.youtube.com/watch?v=KF2j-9iSf4Q && https://www.geeksforgeeks.org/merge-sort/
+
+### Bubble Sort 
+- Space O(n logn)
+- Time O(n^2)
+- Help from https://www.geeksforgeeks.org/bubble-sort/ 
+
+## Count Sort
+- Space O(n+k)
+- Time O(n+k)
+- Help from https://www.youtube.com/watch?v=OKd534EWcdk

@@ -1,3 +1,4 @@
+https://travis-ci.org/DevinTyler26/33-sorting-algorithms.svg?branch=lab-33
 ![cf](http://i.imgur.com/7v5ASc8.png) 33: Sorting Algorithms
 ===
  

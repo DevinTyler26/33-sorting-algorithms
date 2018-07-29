@@ -39,9 +39,14 @@ Add your Travis badge to the top of your README (even if your build is failing),
 ### Merge Sort
 - Time O(n logn)
 - Space O(n)
-- help from https://www.youtube.com/watch?v=KF2j-9iSf4Q && https://www.geeksforgeeks.org/merge-sort/
+- Help from https://www.youtube.com/watch?v=KF2j-9iSf4Q && https://www.geeksforgeeks.org/merge-sort/
 
 ### Bubble Sort 
 - Space O(n logn)
 - Time O(n^2)
-- help from https://www.geeksforgeeks.org/bubble-sort/ 
+- Help from https://www.geeksforgeeks.org/bubble-sort/ 
+
+## Count Sort
+- Space O(n+k)
+- Time O(n+k)
+- Help from https://www.youtube.com/watch?v=OKd534EWcdk
